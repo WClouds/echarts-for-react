@@ -1,6 +1,6 @@
 {
-  "name": "echarts-for-react",
-  "version": "1.1.6",
+  "name": "echarts-for-react-wclouds",
+  "version": "0.0.2",
   "description": "baidu Echarts(v3.0) components for react",
   "main": "lib/echarts-for-react",
   "scripts": {
@@ -15,7 +15,7 @@
   "repository": {
     "type": "git",
     "build-demos": "webpack",
-    "url": "https://github.com/hustcc/echarts-for-react.git"
+    "url": "https://github.com/WClouds/echarts-for-react.git"
   },
   "keywords": [
     "react",
@@ -28,12 +28,12 @@
     "graph",
     "react-component"
   ],
-  "author": "hustcc (http://github.com/hustcc)",
+  "author": "wclouds (http://github.com/wclouds)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hustcc/echarts-for-react/issues"
+    "url": "https://github.com/wclouds/echarts-for-react/issues"
   },
-  "homepage": "https://github.com/hustcc/echarts-for-react",
+  "homepage": "https://github.com/wclouds/echarts-for-react",
   "devDependencies": {
     "react-adsense": "^0.0.1",
     "babel-cli": "^6.6.0",
@@ -57,14 +57,14 @@
     "rimraf": "^2.5.0",
     "cross-env": "^1.0.8",
     "echarts": "^3.1.1",
-    "element-resize-event": "^2.0.5",
+    "element-resize-event": "2.0.7",
     "react-router": "^2.0.0",
     "babel-plugin-transform-es3-property-literals": "*",
     "babel-plugin-transform-es3-member-expression-literals": "*"
   },
   "dependencies": {
     "echarts": "^3.1.1",
-    "element-resize-event": "^2.0.5"
+    "element-resize-event": "2.0.7"
   },
   "peerDependencies": {
     "react": ">=0.13.2 || ^0.14 || ^15.0.0"
